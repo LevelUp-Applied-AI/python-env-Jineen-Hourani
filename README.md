@@ -27,3 +27,6 @@ python -m pip install -r requirements-prework.txt
 2. Complete the work
 3. Push the branch and open a PR from your branch to `main`
 4. Submit the PR URL in TalentLMS
+
+## When to use each
+I use a Jupyter notebook when I want to explore data step by step, test ideas, and keep results such as tables visible directly under the code, which makes it easier to analyze and experiment interactively. I use a script when I want to run the entire process quickly from the terminal in a reproducible and production-style way without interacting with individual cells.
